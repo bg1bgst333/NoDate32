@@ -323,6 +323,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\cursor1.bmp"
+				>
+			</File>
+			<File
 				RelativePath=".\NoDate32.rc"
 				>
 			</File>
